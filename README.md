@@ -1,5 +1,5 @@
 ##                                Shinu V Ignatious
-###          Data Science | Business Analytics | Process improvement 
+         _Data Science | Business Analytics | Process improvement_ 
 
 You can use the [editor on GitHub](https://www.linkedin.com/in/shinu-ignatious-2b502b13b/) to maintain and preview the content for your website in Markdown files.
 
