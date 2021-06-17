@@ -10,7 +10,9 @@ across areas like statistical modeling, machine learning, data mining, text anal
 roles, 
 
 - Data Scientist - Develop statistical models using Machine Learning Algorithms for Predictive Analytics 
+
 - Business Intelligence Analyst - Build dashboards using MS Excel and come up with actionable insights 
+-
 - Process Improvement Analyst - Improved the existing process flow by 40% reduction in time and there by ₹5M savings, 
 using DMAIC principle in Six Sigma, leveraging tools like Minitab and Excel. 
 
