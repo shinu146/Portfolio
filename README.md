@@ -16,6 +16,11 @@ roles,
 - Process Improvement Analyst - Improved the existing process flow by 40% reduction in time and there by ₹5M savings, 
 using DMAIC principle in Six Sigma, leveraging tools like Minitab and Excel. 
 
+
+### **PROFESSIONAL EXPERIENCE**
+_EY GBS, Bengaluru |2018-present|_ 
+_IBM India Pvt Ltd, Bengaluru |2016-2018|_
+
 ```markdown
 Syntax highlighted code block
 
