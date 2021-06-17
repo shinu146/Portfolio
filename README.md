@@ -19,10 +19,7 @@ using DMAIC principle in Six Sigma, leveraging tools like Minitab and Excel.
 
 ### **PROFESSIONAL EXPERIENCE**
 _EY GBS, Bengaluru |2018-present|_ 
-
 _IBM India Pvt Ltd, Bengaluru |2016-2018|_
-
-
 
 **Global IT Service – Customer Experience Analytics** 
 ```markdown
@@ -43,6 +40,7 @@ Worked on text details of every tickets to bring out key insights and trends by 
 similarity, topic modelling like LDA and NMF. Trend analysis of each topic of tickets was carried out in Power BI.  
 
 **Study on Impact of WFH during lockdown – Text Analytics using R , Python and Power BI** 
+
 _Identify the challenges faced by employees while working from home_  
 Survey data from employees was taken to study on the challenges and the applications that are affected while working  
 from home. Topic Modelling was carried out to identify key topics in the survey. Word cloud and sentimental analysis  
@@ -59,6 +57,7 @@ vectorize each resume. Later SVM was used to classify the resumes.
 
 **EY AI Challenge**  
 _Predict top 5 most relevant answers for each question, from the paragraphs in US Tax Guide_ 
+
 Built an information retrieval model with a MAP of 0.81 to pick the most relevant answers from the US tax law book for 
 the input question. An ensemble model of TF – IDF + BM25 ranking with word embedding + cosine similarity was used 
 for information retrieval 
@@ -66,7 +65,7 @@ Secured the AI Challenge Silver badge , Ranked under top 10 from India
 
 **Attrition Prediction : HR Analytics**  
 _Predict attrition of employees in a financial year for BMC-team (EY)_  
-Built a classification model using XgBoost with a precision of 0.87 to predict the attrition probability of each employee 
+Built a classification model using XgBoost with a `precision` of 0.87 to predict the attrition probability of each employee 
 for the future financial year based on historic data like performance rating, appraisals, leaves taken and employee 
 demographics.  
 
