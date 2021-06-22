@@ -19,7 +19,7 @@ using DMAIC principle in Six Sigma, leveraging tools like Minitab and Excel.
 ### **Skills**
 `Data Sciene` `Machine Learning` `NLP` `Time series analysis` `Text mining` `Regression` `Classification`
 ### **Tools**
-`R` `Python` `Alteryx` `PowerBI` `MS Excel` `MS PowerPoint` `SQL` `Power Platform`
+`R` `Python` `Alteryx` `PowerBI` `MS Excel` `MS PowerPoint` `SQL` `Power-Platform`
 
 ### **PROFESSIONAL EXPERIENCE**
 _EY GBS, Bengaluru |2018-present|_ 
