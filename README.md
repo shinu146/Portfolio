@@ -22,12 +22,12 @@ _EY GBS, Bengaluru |2018-present|_
 _IBM India Pvt Ltd, Bengaluru |2016-2018|_
 
 **Global IT Service – Customer Experience Analytics** 
-```markdown
+
 _Advanced Analytics and Insights_ 
 Works closely with Global IT leadership in consulting and delivering products that can help leadership taking better 
 decision. This involves real time analytics, notifying , root cause analysis using various data science and visualization 
 techniques. Real time machine diagnostic dashboard is created to monitor PC performance of employees across globe.  
-```
+
 **Client Performance Analytics**   
 _Identify customer/client segmentation_  
 Created a client performance analytics dashboard including various Financial KPIs in Power BI using Alteryx designer 
