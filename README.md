@@ -77,30 +77,3 @@ Improved existing business process using DMAIC principles and reduced entire pro
 Machine Learning model using IBM Data Science Experience to predict the status and average time required to fix a 
 newly raised defect using Logistic and Linear Regression. Also ran a survival analysis on time to closure for an open 
 ticket.
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](74425348_2457491311206542_364355342873657344_o%20(2).jpg)
-```
-![Image](74425348_2457491311206542_364355342873657344_o%20(2).jpg)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shinu146/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
