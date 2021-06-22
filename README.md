@@ -16,13 +16,16 @@ roles,
 - Process Improvement Analyst - Improved the existing process flow by 40% reduction in time and there by ₹5M savings, 
 using DMAIC principle in Six Sigma, leveraging tools like Minitab and Excel. 
 
+### **Skills**
+`Data Sciene` `Machine Learning` `NLP` `Time series analysis` `Text mining` `Regression` `Classification`
+### **Tools**
+`R` `Python` `Alteryx` `PowerBI` `MS Excel` `MS PowerPoint` `SQL` `Power Platform`
 
 ### **PROFESSIONAL EXPERIENCE**
 _EY GBS, Bengaluru |2018-present|_ 
 _IBM India Pvt Ltd, Bengaluru |2016-2018|_
 
 **Global IT Service – Customer Experience Analytics** 
-
 _Advanced Analytics and Insights_ 
 Works closely with Global IT leadership in consulting and delivering products that can help leadership taking better 
 decision. This involves real time analytics, notifying , root cause analysis using various data science and visualization 
