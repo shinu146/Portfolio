@@ -94,7 +94,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](74425348_2457491311206542_364355342873657344_o%20(2).jpg)
 ```
-
+![Image](74425348_2457491311206542_364355342873657344_o%20(2).jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
