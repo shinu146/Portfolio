@@ -25,23 +25,15 @@ using DMAIC principle in Six Sigma, leveraging tools like Minitab and Excel.
 _EY GBS, Bengaluru |2018-present|_ 
 _IBM India Pvt Ltd, Bengaluru |2016-2018|_
  
-**SNOW incident short description analysis { Python , PowerBI } EY EDS Performance award**
-
-_PHASE 2 -Identify key topics/clusters and insights from short description and employee persona_   
-Worked on text details of every tickets to bring out key insights and trends by leveraging techniques like 
-NLP, text similarity, topic modelling, document clustering like LDA and TFIDF, K-means. Trend analysis of 
-each topic of tickets was carried out in Power BI. Also running different statistical test to test for relationship 
-b/w clusters and persona 
-
-_PHASE 1 -Identify key trends and insights from short description and other details_   
-Worked on text details of every tickets to bring out key insights and trends by leveraging techniques like 
-NLP, ngram , word cloud , moving average cross over (MACD). Trend analysis of each topic of tickets was 
-carried out in Power BI. 
-**Client Performance Analytics**   
-_Identify customer/client segmentation_  
-Created a client performance analytics dashboard including various Financial KPIs in Power BI using Alteryx designer 
-as the ETL tool. These KPIs were used to score different clients in terms of performance. These KPIs were also used to 
-cluster clients into different groups to formulate efficient strategy.
+**IT Ticket analysis and root cause analysis**  
+_Identify key trends and insights from short description and other details_  
+Worked on text details of every tickets to bring out key insights and trends by leveraging techniques like NLP, text  
+similarity, topic modelling like LDA and NMF. Trend analysis of each topic of tickets was carried out in Power BI.
+**Global IT – Laptop Performance Analytics and Prioritization**   
+_Visualizing the hardware performance and provide prioritization list in terms of hardware refresh_  
+Built Power BI dashboard using different data sets from cloud and SharePoint list to provide meaning 
+statistics around different KPI and provide performance score based on PCA-1 component. Global IT leaders 
+can plan on budgeting on hardware refresh upfront before hardware end date.
 
 **IT Ticket analysis and root cause analysis**  
 _Identify key trends and insights from short description and other details_  
