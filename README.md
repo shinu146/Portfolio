@@ -56,7 +56,7 @@ the input question. An ensemble model of TF – IDF + BM25 ranking with word emb
 for information retrieval 
 Secured the AI Challenge Silver badge , Ranked under top 10 from India 
 
-**Study on Impact of WFH during lockdown {Python, Power BI} **
+**Study on Impact of WFH during lockdown {Python, Power BI}**
 _Identify the challenges faced by employees while working from home_
 Survey data from employees was taken to study on the challenges and the applications that are affected 
 while working from home. Topic Modelling was carried out to identify key topics in the survey. Word cloud 
