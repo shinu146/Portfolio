@@ -44,21 +44,12 @@ Built a python recommendation model in identifying talents for open contracts ba
 
 **Attrition Prediction: HR Analytics  { R, Alteryx, PowerBI , Power Automate }**  
 _Predict attrition of employees in a financial year for BMC-team (EY)_ 
-Built a classification model using RandomForest with a precision of 0.87 to predict the attrition probability 
-of each employee for the future quarter based on historic data like performance rating, appraisals, leaves 
-taken and employee demographics. Automated the findings with power automate MS team’s bot, so that 
-the supervisors/managers will be notified with possible attrition of their reportees in the next quarter.
+Built a classification model using RandomForest with a precision of 0.87 to predict the attrition probability of each employee for the future quarter based on historic data like performance rating, appraisals, leaves taken and employee demographics. Automated the findings with power automate MS team’s bot, so that the supervisors/managers will be notified with possible attrition of their reportees in the next quarter.
 
 **EY AI Challenge**  
 _Predict top 5 most relevant answers for each question, from the paragraphs in US Tax Guide_ 
-Built an information retrieval model with a MAP of 0.81 to pick the most relevant answers from the US tax law book for 
-the input question. An ensemble model of TF – IDF + BM25 ranking with word embedding + cosine similarity was used 
-for information retrieval 
-Secured the AI Challenge Silver badge , Ranked under top 10 from India 
+Built an information retrieval model with a MAP of 0.81 to pick the most relevant answers from the US tax law book for the input question. An ensemble model of TF – IDF + BM25 ranking with word embedding + cosine similarity was used for information retrieval Secured the AI Challenge Silver badge , Ranked under top 10 from India 
 
 **Study on Impact of WFH during lockdown {Python, Power BI}**
 _Identify the challenges faced by employees while working from home_
-Survey data from employees was taken to study on the challenges and the applications that are affected 
-while working from home. Topic Modelling was carried out to identify key topics in the survey. Word cloud 
-and sentimental analysis  
-was carried out for initial understandings  
+Survey data from employees was taken to study on the challenges and the applications that are affected while working from home. Topic Modelling was carried out to identify key topics in the survey. Word cloud and sentimental analysis was carried out for initial understandings  
