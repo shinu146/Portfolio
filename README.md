@@ -28,6 +28,7 @@ _IBM India Pvt Ltd, Bengaluru |2016-2018|_
 **Client Performance Analytics {Alteryx, R, PowerBI}**  
 _Identify customer/client segmentation_  
 Cluster every client EY global into 3 buckets, based on different KPIs related to finance, demographic features and pipeline revenue. Identify key trends from the cluster. Create recommendation plan on new offerings to clients based on peer comparison, which was later on developed to a new project called Service offering recommendation 
+
 **Global IT – Laptop Performance Analytics and Prioritization**   
 _Visualizing the hardware performance and provide prioritization list in terms of hardware refresh_  
 Built Power BI dashboard using different data sets from cloud and SharePoint list to provide meaning statistics around different KPI and provide performance score based on PCA-1 component. Global IT leaders can plan on budgeting on hardware refresh upfront before hardware end date.
@@ -41,7 +42,7 @@ similarity, topic modelling like LDA and NMF. Trend analysis of each topic of ti
 _Create a workflow on how to effectively utilize benched gigs to other open contracts_  
 Built a python recommendation model in identifying talents for open contracts based on task-skill and gig skill mapping. Workflow was based on CV(count vectorizer) + similarity matrix model using cosine and avr cosine similarity
 
-**Attrition Prediction: HR Analytics  { R, Alteryx, PowerBI , Power Automate } **  
+**Attrition Prediction: HR Analytics  { R, Alteryx, PowerBI , Power Automate }**  
 _Predict attrition of employees in a financial year for BMC-team (EY)_ 
 Built a classification model using RandomForest with a precision of 0.87 to predict the attrition probability 
 of each employee for the future quarter based on historic data like performance rating, appraisals, leaves 
@@ -50,17 +51,10 @@ the supervisors/managers will be notified with possible attrition of their repor
 
 **EY AI Challenge**  
 _Predict top 5 most relevant answers for each question, from the paragraphs in US Tax Guide_ 
-
 Built an information retrieval model with a MAP of 0.81 to pick the most relevant answers from the US tax law book for 
 the input question. An ensemble model of TF – IDF + BM25 ranking with word embedding + cosine similarity was used 
 for information retrieval 
 Secured the AI Challenge Silver badge , Ranked under top 10 from India 
-
-**Attrition Prediction : HR Analytics**  
-_Predict attrition of employees in a financial year for BMC-team (EY)_  
-Built a classification model using XgBoost with a `precision` of 0.87 to predict the attrition probability of each employee 
-for the future financial year based on historic data like performance rating, appraisals, leaves taken and employee 
-demographics.  
 
 **Study on Impact of WFH during lockdown {Python, Power BI} **
 _Identify the challenges faced by employees while working from home_
