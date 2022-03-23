@@ -48,6 +48,7 @@ Built a classification model using RandomForest with a precision of 0.87 to pred
 
 **EY AI Challenge**  
 _Predict top 5 most relevant answers for each question, from the paragraphs in US Tax Guide_ 
+
 Built an information retrieval model with a MAP of 0.81 to pick the most relevant answers from the US tax law book for the input question. An ensemble model of TF – IDF + BM25 ranking with word embedding + cosine similarity was used for information retrieval Secured the AI Challenge Silver badge , Ranked under top 10 from India 
 
 **Study on Impact of WFH during lockdown {Python, Power BI}**
