@@ -24,13 +24,17 @@ using DMAIC principle in Six Sigma, leveraging tools like Minitab and Excel.
 ### **PROFESSIONAL EXPERIENCE**
 _EY GBS, Bengaluru |2018-present|_ 
 _IBM India Pvt Ltd, Bengaluru |2016-2018|_
-
-**Global IT Service – Customer Experience Analytics** 
-_Advanced Analytics and Insights_ 
-Works closely with Global IT leadership in consulting and delivering products that can help leadership taking better 
-decision. This involves real time analytics, notifying , root cause analysis using various data science and visualization 
-techniques. Real time machine diagnostic dashboard is created to monitor PC performance of employees across globe.  
-
+ 
+**SNOW incident short description analysis { Python , PowerBI } EY EDS Performance award** 
+_PHASE 2 -Identify key topics/clusters and insights from short description and employee persona_   
+Worked on text details of every tickets to bring out key insights and trends by leveraging techniques like 
+NLP, text similarity, topic modelling, document clustering like LDA and TFIDF, K-means. Trend analysis of 
+each topic of tickets was carried out in Power BI. Also running different statistical test to test for relationship 
+b/w clusters and persona 
+_PHASE 1 -Identify key trends and insights from short description and other details_   
+Worked on text details of every tickets to bring out key insights and trends by leveraging techniques like 
+NLP, ngram , word cloud , moving average cross over (MACD). Trend analysis of each topic of tickets was 
+carried out in Power BI. 
 **Client Performance Analytics**   
 _Identify customer/client segmentation_  
 Created a client performance analytics dashboard including various Financial KPIs in Power BI using Alteryx designer 
