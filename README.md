@@ -28,7 +28,7 @@ _IBM India Pvt Ltd, Bengaluru |2016-2018|_
 **IT Ticket analysis and root cause analysis**  
 _Identify key trends and insights from short description and other details_  
 Worked on text details of every tickets to bring out key insights and trends by leveraging techniques like NLP, text  
-similarity, topic modelling like LDA and NMF. Trend analysis of each topic of tickets was carried out in Power BI.
+similarity, topic modelling like LDA and NMF. Trend analysis of each topic of tickets was carried out in Power BI. 
 **Global IT – Laptop Performance Analytics and Prioritization**   
 _Visualizing the hardware performance and provide prioritization list in terms of hardware refresh_  
 Built Power BI dashboard using different data sets from cloud and SharePoint list to provide meaning 
